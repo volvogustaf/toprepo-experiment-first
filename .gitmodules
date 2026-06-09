@@ -1,0 +1,6 @@
+[submodule "modules/second"]
+	path = modules/second
+	url = /home/ghellgre/code/toprepo-experiment-second
+[submodule "modules/third"]
+	path = modules/third
+	url = /home/ghellgre/code/toprepo-experiment-third
