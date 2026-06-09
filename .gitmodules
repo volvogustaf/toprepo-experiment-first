@@ -1,0 +1,6 @@
+[submodule "modules/second"]
+	path = modules/second
+	url = https://github.com/volvogustaf/toprepo-experiment-second.git
+[submodule "modules/third"]
+	path = modules/third
+	url = https://github.com/volvogustaf/toprepo-experiment-third.git
