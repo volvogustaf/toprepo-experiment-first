@@ -1,0 +1,17 @@
+[repo.home_ghellgre_code_toprepo-experiment-second]
+url = "/home/ghellgre/code/toprepo-experiment-second"
+missing_commits = []
+
+[repo.home_ghellgre_code_toprepo-experiment-third]
+url = "/home/ghellgre/code/toprepo-experiment-third"
+missing_commits = []
+
+[repo.volvogustaf_toprepo-experiment-second]
+url = "https://github.com/volvogustaf/toprepo-experiment-second.git"
+enabled = false
+missing_commits = []
+
+[repo.volvogustaf_toprepo-experiment-third]
+url = "https://github.com/volvogustaf/toprepo-experiment-third.git"
+enabled = false
+missing_commits = []
