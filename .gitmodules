@@ -4,3 +4,6 @@
 [submodule "modules/third"]
 	path = modules/third
 	url = https://github.com/volvogustaf/toprepo-experiment-third.git
+[submodule "modules/lfs-experiment"]
+	path = modules/lfs-experiment
+	url = https://github.com/volvogustaf/lfs-experiment.git

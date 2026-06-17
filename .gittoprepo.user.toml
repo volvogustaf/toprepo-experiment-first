@@ -6,12 +6,10 @@ missing_commits = []
 url = "https://github.com/volvogustaf/toprepo-experiment-third.git"
 missing_commits = []
 
-[repo.volvogustaf_toprepo-experiment-second]
+[repo.home_ghellgre_code_toprepo-lfs-experiment_toprepo-experiment-second]
 url = "https://github.com/volvogustaf/toprepo-experiment-second.git"
-enabled = false
 missing_commits = []
 
-[repo.volvogustaf_toprepo-experiment-third]
+[repo.home_ghellgre_code_toprepo-lfs-experiment_toprepo-experiment-third]
 url = "https://github.com/volvogustaf/toprepo-experiment-third.git"
-enabled = false
 missing_commits = []
