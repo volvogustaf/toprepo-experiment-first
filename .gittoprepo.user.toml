@@ -1,11 +1,3 @@
-[repo.home_ghellgre_code_toprepo-experiment-second]
-url = "https://github.com/volvogustaf/toprepo-experiment-second.git"
-missing_commits = []
-
-[repo.home_ghellgre_code_toprepo-experiment-third]
-url = "https://github.com/volvogustaf/toprepo-experiment-third.git"
-missing_commits = []
-
 [repo.home_ghellgre_code_toprepo-lfs-experiment_toprepo-experiment-second]
 url = "https://github.com/volvogustaf/toprepo-experiment-second.git"
 missing_commits = []
